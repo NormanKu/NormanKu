@@ -1,21 +1,45 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NormanKu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ku Chien Hsiang (Norman)</h1>
-<h3 align="center">A passionate frontend developer from Taipei,Taiwan. I was a project manager in the past four years</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NormanKu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on **car-rent**
+# Hi 👋, I'm Ku Chien Hsiang (Norman)
 
-- 🌱 I’m currently learning **TypeScript**
+A **Full Stack Developer** from **Taipei, Taiwan**, with 4 years of experience as a project manager.  
+I build end-to-end web applications, from frontend UI/UX to backend APIs and database design.
 
-- 🤝 I’m looking for help with **job hiring**
+---
 
-- 💬 Ask me about **JavaScript**
+## About Me
+- 🔭 Currently working on: **Car Rent** – full stack web app for managing car rental services ([Repo/Live](#))
+- 🌱 Learning: **TypeScript**, cloud deployment (Vercel, AWS)
+- 💬 Ask me about: **JavaScript / TypeScript / React / Node.js / Django / Rails**
+- 🤝 Open to: **Full Stack roles** & collaboration
+- 📫 Reach me: **kunorman4@gmail.com**
 
-- 📫 How to reach me **kunorman4@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kunorman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunorman" height="30" width="40" /></a>
-</p>
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norman-ku-dev/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kunorman)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NormanKu)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## Featured Projects
+- **Car Rent** – Full stack system for car rental booking & management. Built with **React, Node.js, MongoDB**.  
+- **Project 2** – Brief description + stack (e.g., Django REST API + React frontend).  
+- **Project 3** – Highlight performance/security/unique tech.  
+
+> Replace with real project links and descriptions for stronger impact.
+
+---
+
+## Tech Stack
+**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Tailwind CSS · Sass · Bootstrap  
+**Backend:** Node.js · Express.js · Django · Ruby on Rails  
+**Database:** PostgreSQL · MySQL · MSSQL · MongoDB  
+**Tools & Others:** Git · GitHub Actions · Figma · Heroku · AWS Basics  
+
+---
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NormanKu&show_icons=true&hide_title=true)
