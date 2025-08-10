@@ -25,7 +25,7 @@ I build end-to-end web applications, from frontend UI/UX to backend APIs and dat
 ---
 
 ## Featured Projects
-- **Car Rent** – Full stack system for car rental booking & management. Built with **React, Node.js, MongoDB**.  
+- **Car Rent** – Full stack system for car rental booking & management. Built with **React, Node.js**.  
 - **Project 2** – Brief description + stack (e.g., Django REST API + React frontend).  
 - **Project 3** – Highlight performance/security/unique tech.  
 
