@@ -23,16 +23,12 @@
 ---
 
 ## Featured Projects
-- **Car Rent** – Full stack system for car rental booking & management. Built with **React, Node.js**.  
-- **Project 2** – Brief description + stack (e.g., Django REST API + React frontend).  
-- **Project 3** – Highlight performance/security/unique tech.  
 
-> Replace with real project links and descriptions for stronger impact.
 
 ---
 
 ## Tech Stack
-**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Tailwind CSS · Sass · Bootstrap  
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Sass · Bootstrap  
 **Backend:** Node.js · Django 
 **Database:** PostgreSQL  
 **Tools & Others:** Git · GitHub Actions · Figma · Heroku 
