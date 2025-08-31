@@ -1,16 +1,15 @@
 
 # Hi 👋, I'm Ku Chien Hsiang (Norman)
 
-A **Full Stack Developer** from **Taipei, Taiwan**, with 4 years of experience as a project manager.  
-I build end-to-end web applications, from frontend UI/UX to backend APIs and database design.
+4 years of experience as a project manager.  
+
 
 ---
 
 ## About Me
-- 🔭 Currently working on: **Car Rent** – full stack web app for managing car rental services ([Repo/Live](#))
-- 🌱 Learning: **TypeScript**, cloud deployment (Vercel, AWS)
-- 💬 Ask me about: **JavaScript / TypeScript / React / Node.js / Django / Rails**
-- 🤝 Open to: **Full Stack roles** & collaboration
+- 🔭 Currently working on: 
+- 🌱 Learning: **TypeScript**
+- 💬 Ask me about: **JavaScript / React / Node.js / Django**
 - 📫 Reach me: **kunorman4@gmail.com**
 
 ---
@@ -34,9 +33,9 @@ I build end-to-end web applications, from frontend UI/UX to backend APIs and dat
 
 ## Tech Stack
 **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Tailwind CSS · Sass · Bootstrap  
-**Backend:** Node.js · Express.js · Django · Ruby on Rails  
-**Database:** PostgreSQL · MySQL · MSSQL · MongoDB  
-**Tools & Others:** Git · GitHub Actions · Figma · Heroku · AWS Basics  
+**Backend:** Node.js · Django 
+**Database:** PostgreSQL  
+**Tools & Others:** Git · GitHub Actions · Figma · Heroku 
 
 ---
 
